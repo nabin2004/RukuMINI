@@ -18,5 +18,6 @@ Every learner deserves a voice they understand
 | **RukuMAX**  | Full-scale production version — with speaker adaptation, emotion control, backend orchestration |
 | **RukuCORE** | Open-source modular library for multilingual dubbing pipelines              |
 | **RukuLABS** | Research and experimentation umbrella under Kripa Audio Lab                 |
+| **RukuStudio** | Editor for the entire pipeline process running as well as tweaking things                 |
 
 ---
